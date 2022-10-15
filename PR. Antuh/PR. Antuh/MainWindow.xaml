@@ -1,0 +1,19 @@
+﻿<Window x:Class="PR.Antuh.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR.Antuh"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Вариант №2" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Выполнил студент группы ПР-20.101" HorizontalAlignment="Left" Margin="261,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="Антух Сергей" HorizontalAlignment="Left" Margin="324,44,0,0" VerticalAlignment="Top"/>
+        <Button Content="Задание №1" HorizontalAlignment="Left" Margin="10,310,0,0" VerticalAlignment="Top" Width="133" Height="65" Click="Button_Click"/>
+        <Button Content="Задание №2" HorizontalAlignment="Left" Margin="166,310,0,0" VerticalAlignment="Top" Width="133" Height="65" Click="Button_Click_1"/>
+        <Button Content="Задание №4" HorizontalAlignment="Left" Margin="487,310,0,0" VerticalAlignment="Top" Width="133" Height="65" Click="Button_Click_3"/>
+        <Button Content="Задание №3" HorizontalAlignment="Left" Margin="324,310,0,0" VerticalAlignment="Top" Width="133" Height="65" Click="Button_Click_2"/>
+        <Button Content="Задание №5" HorizontalAlignment="Left" Margin="649,310,0,0" VerticalAlignment="Top" Width="133" Height="65" Click="Button_Click_4"/>
+    </Grid>
+</Window>

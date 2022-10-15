@@ -1,0 +1,25 @@
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\bin\Debug\PR.Antuh.exe.config
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\bin\Debug\PR.Antuh.exe
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\bin\Debug\PR.Antuh.pdb
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR. Antuh.csproj.AssemblyReference.cache
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\MainWindow.g.cs
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window1.g.cs
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window2.g.cs
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window3.g.cs
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\App.g.cs
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR.Antuh_MarkupCompile.cache
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR.Antuh_MarkupCompile.lref
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\MainWindow.baml
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window1.baml
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window2.baml
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window3.baml
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR.Antuh.g.resources
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR.Antuh.Properties.Resources.resources
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR. Antuh.csproj.GenerateResource.cache
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR. Antuh.csproj.CoreCompileInputs.cache
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR.Antuh.exe
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\PR.Antuh.pdb
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window4.g.cs
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window4.baml
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window5.g.cs
+D:\Programmirovanie\Program\PR. Antuh\PR. Antuh\obj\Debug\Window5.baml

@@ -1,0 +1,20 @@
+﻿<Window x:Class="PR.Antuh.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR.Antuh"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid>
+        <Label Content="Дана строка, состоящая из русских слов, разделенных пробелами (одним или несколькими)." HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.66,0.128"/>
+        <TextBox x:Name="tb_zn" HorizontalAlignment="Left" Height="23" Margin="10,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.219,-0.385"/>
+        <Label Content="Поле ввода:" HorizontalAlignment="Left" Margin="10,82,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.66,0.128"/>
+        <GroupBox Header="Задание №2" HorizontalAlignment="Left" Height="67" Margin="10,10,0,0" VerticalAlignment="Top" Width="772"/>
+        <Label Content="Результат:" HorizontalAlignment="Left" Margin="10,202,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.66,0.128"/>
+        <Button Content="Выполнить" HorizontalAlignment="Left" Height="45" Margin="10,152,0,0" VerticalAlignment="Top" Width="118" Click="Button_Click"/>
+        <TextBox x:Name="tb_result" HorizontalAlignment="Left" Height="23" Margin="10,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.219,-0.385"/>
+        <Label Content="Вывести строку, содержащую эти же слова (разделенные одним пробелом), но расположенные в обратном порядке." HorizontalAlignment="Left" Margin="10,51,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
